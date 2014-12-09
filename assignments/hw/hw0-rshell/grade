@@ -1,1 +1,2 @@
-/ 100
+60 / 100
+pwd ; pwd not working, pwd && pwd not working, only no space is working for connector: -15, ls -l;exit not working -5, system call misuse -30
